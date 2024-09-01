@@ -1,0 +1,20 @@
+{
+  "name": "playwright-demo-section1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  },
+  "dependencies": {
+    "unzip-crx": "^0.2.0",
+    "unzip-stream": "^0.3.1"
+  }
+}
